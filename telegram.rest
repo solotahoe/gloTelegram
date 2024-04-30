@@ -1,0 +1,8 @@
+POST http://localhost:5000/telegram
+content-type: application/json
+
+
+{
+    "phoneNumber": "+254715688598",
+    "password": "nova",
+}

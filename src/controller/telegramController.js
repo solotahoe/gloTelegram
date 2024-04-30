@@ -2,8 +2,8 @@ const { Api, TelegramClient } = require("telegram");
 const StringSession = require("telegram/sessions").StringSession;
 const input = require("input");
 
-const apiId = 25939296;
-const apiHash = "2d3f19af9d061574732e83b6d260cd07";
+const apiId = 678;
+const apiHash = "2bh89h787uhig77";
 const stringSession = new StringSession(
   "1BAAOMTQ5LjE1NC4xNjcuOTEAUBNPCgjsItXb/CI8kEYYJLZZLhH1O9WHmp0RVbxdn4/Evy2rPHVQjJdOLZZWf3a8DPUjVKJb2Z9f1pCAE3hT1GOk0k/iasN7CsHiKvuJKosmA8cKF9mAHz0+LxvhSKJ5v5uvXkHBYuzYxtLzdiRsYyRzNlnaf1nO/u/WfE5nQJCnSgnd/RdRdAPYTnW5ESJBhCjL+ybjcGPhQz5ijU21X1gOWOqSaSjdDOy2UMPo8Ww0n5ZkB1EfZVRKc0adWEsZZQ71sTp0NpbOqLaUz03dwdMV9+1SiS9PQFcwAckHXCsQnxiYcfeGdSHlpp01aBVpbgtMXyv1ifLuwx+5PE0cc+4="
 );
